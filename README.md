@@ -1,2 +1,2 @@
 # all-xaoex-and-oktays-code
-All of oktayscm code and projects
+All of oktays code and projects
